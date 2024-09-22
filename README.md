@@ -2,6 +2,9 @@
 # TaskTrack
 
 ## Descripción del Proyecto
+#### rnfes → Crea un componente funcional con useState.
+#### rnfes → Crea un componente funcional con useState y useEffect.
+#### rnfs → Crea un componente funcional simple sin importar StyleSheet.
 
 ### Aun esta en proceso de desarrollo 
 
